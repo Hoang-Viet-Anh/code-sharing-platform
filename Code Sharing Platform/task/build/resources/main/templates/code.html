@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Code</title>
+    <link rel="stylesheet" th:href="@{/css/code.css}"/>
+    <link rel="stylesheet"
+          href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/default.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+</head>
+<body>
+    <div th:if="${code == null}">Code with specified id not found.</div>
+    <div th:unless="${code == null}">
+        <span id="load_date" class="date" th:text="${date}"/>
+        <div th:if="${code.views > 0 or code.views == null}">
+            <pre><span id="views_restriction" th:text="${code.views}?: 0"></span> more views allowed</pre>
+        </div>
+        <div th:if="${code.time > 0}">
+            <pre>The code will be available for <span id="time_restriction" th:text="${code.time}"></span> seconds</pre>
+        </div>
+        <pre id="code_snippet"><code class="code" th:text="${code.code}"></code></pre>
+    </div>
+</body>
+</html>

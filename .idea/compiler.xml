@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.24/13a394eed5c4f9efb2a6d956e2086f1d81e857d9/lombok-1.18.24.jar" />
+        </processorPath>
+        <module name="Code_Sharing_Platform.Code_Sharing_Platform-task.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-bin-default-build-reports-tests.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-bin-default-build-test-results.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-bin-default-build-tmp.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-bin-default.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-classes-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-generated-sources-headers-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-reports-tests-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-reports-tests.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-test-results-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-test-results.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-tmp-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default-build-tmp.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-bin-default.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-classes-java-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-classes-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-generated-sources-annotationProcessor-java-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-generated-sources-headers-java-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-generated-sources-headers-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-reports-tests-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-reports-tests.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-test-results-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-test-results.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-tmp-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default-build-tmp.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-bin-default.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-classes-java-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-classes-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-generated-sources-annotationProcessor-java-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-generated-sources-headers-java-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-reports-tests-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-reports-tests.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-test-results-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-test-results.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-tmp-bin.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task-build-tmp.main" target="11" />
+      <module name="Code_Sharing_Platform.Code_Sharing_Platform-task.main" target="11" />
+      <module name="Code_Sharing_Platform.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

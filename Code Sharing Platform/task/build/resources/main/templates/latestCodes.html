@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Latest</title>
+    <link rel="stylesheet" th:href="@{/css/code.css}"/>
+    <link rel="stylesheet"
+           href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/default.min.css">
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+</head>
+<body>
+    <div th:each="code: ${codes}">
+        <span id="load_date" class="date" th:text="${code.formattedDate}"/>
+        <pre id="code_snippet"><code class="code" th:text="${code.code}"></code></pre>
+        </br>
+    </div>
+</body>
+</html>

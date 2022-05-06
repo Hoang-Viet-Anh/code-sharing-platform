@@ -1,0 +1,5 @@
+input#send_snippet {
+    font-family: "Open Sans";
+    display: inline-block;
+    background-color: green;
+}
